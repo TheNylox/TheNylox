@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=cs,java,javascript,azure,dotnet,postman,debian,docker,mysql,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,javascript,azure,dotnet,postman,debian,docker,mysql&theme=dark)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenylox&show_icons=true&locale=en" alt="thenylox" /></p>
 
