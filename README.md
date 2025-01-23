@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A passionate backend developer who loves making software and Minecraft plugins known as TheNylox.</h3>
 
-- 🔭 I’m currently enhancing my personal project [Limeverse](www.limeverse.it) as a Head Developer
+- 🔭 I’m currently enhancing my personal project [Limeverse](https://www.limeverse.it) as a Head Developer
 - 🔭 Working at [Avanade](https://www.avanade.com/it-it) as a Dynamics365 Solution Engineer
 
 <br></br>
